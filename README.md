@@ -11,7 +11,7 @@ CNU Machine Learning Seminar Material
 * 김동하
 * 박재광
 * 신하람
- * [End-to-End Deep Learning for Self-Driving Car](https://github.com/shinhaha/MachineLearning/blob/master/materials/End-to-End%20Deep%20Learning%20for%20Self-Driving%20Car.pdf)
+  * [End-to-End Deep Learning for Self-Driving Car](https://github.com/shinhaha/MachineLearning/blob/master/materials/End-to-End%20Deep%20Learning%20for%20Self-Driving%20Car.pdf)
 * 김남형
 * 김정선
 * 홍진석
